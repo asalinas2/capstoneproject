@@ -1,0 +1,38 @@
+<%@page contentType="text/html" pageEncoding="ISO-8859-1" trimDirectiveWhitespaces="true"%>
+<section>
+    <div id="icon-wrapper">
+        
+        <a href="profile.jsp">
+            <div class="icons">
+                <div class="icon-slide-container">
+                    <img class="slide-icon"  alt="View Profile" height="100" src="/ecommerce/images/profile.png">
+                </div>
+            </div>
+        </a>
+
+        <a href="kite-map.php">
+            <div class="icons2">
+                <div class="icon-slide-container">
+                    <img class="slide-icon"  alt="The Kite Map Logo" height="100" src="/ecommerce/images/logout.png">
+                </div>
+            </div>
+        </a>
+
+        <a href="location.php">
+            <div class="icons3">
+                <div class="icon-slide-container">
+                    <img class="slide-icon"  alt="The Kite Map Logo" height="100" src="/ecommerce/images/profile.png">
+                </div>
+            </div>
+        </a>
+
+        <a href="feedback.html">
+            <div class="icons4">
+                <div class="icon-slide-container">
+                    <img class="slide-icon"  alt="Logout" height="100" src="/ecommerce/images/logout.png">
+                </div>
+            </div>
+        </a>
+        
+    </div>
+</section>
