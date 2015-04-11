@@ -11,11 +11,18 @@
         <div id="hd">
             <img src="images/name.png" alt="logo"/>
         </div>
-        <%@include file="navigation.jspf"%> 
+        <div class="nav">
+            <ul>
+                <li class="home"><a href="home.jsp">Home</a></li>
+                <li class="products"><a class="active" href="productspage.jsp">Latest Tech</a></li>
+                <li class="about"><a href="about.jsp">About</a></li>
+                <li class="contact"><a href="references.jsp">Contact</a></li>
+            </ul>
+        </div>  
         <%@include file="slider.jspf"%>
         <h1>Welcome to TechBoom!</h1>
         <h2 class="flash">${flash}</h2>
         <p>
-         <%@include file="footer.jspf"%> 
+            <%@include file="footer.jspf"%> 
     </body>
 </html>

@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>TechBoom &raquo; Home</title>
+        <title>TechBoom &raquo; About</title>
         <link rel="stylesheet" type="text/css" href="styles/slider.css"/>
         <link rel="stylesheet" type="text/css" href="styles/main.css"/>
     </head>
@@ -13,9 +13,9 @@
         </div>
         <div class="nav">
             <ul>
-                <li class="home"><a class="active" href="home.jsp">Home</a></li>
+                <li class="home"><a href="home.jsp">Home</a></li>
                 <li class="products"><a href="productspage.jsp">Latest Tech</a></li>
-                <li class="about"><a href="about.jsp">About</a></li>
+                <li class="about"><a class="active" href="about.jsp">About</a></li>
                 <li class="contact"><a href="references.jsp">Contact</a></li>
             </ul>
         </div>

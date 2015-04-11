@@ -77,6 +77,14 @@ body {
         color-stop(1, rgb(36,36,171))
         );
 }
+
+thead {
+    font-family: Arial,sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: rgb(255,163,3);
+}
+
 #footer {
     width:100%;
     font-family: "space";
